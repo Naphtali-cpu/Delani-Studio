@@ -18,6 +18,9 @@ So far there are no contributors, but with time we will get to have some!
 * CSS
 * Javascript
 
+## Known Bugs
+* So far there are unknown bugs in the site.
+
 ## Installation Instructions.
 * Create a file named README.md in the root (based) folder of the Git repo.
 * Add any instructions or documentation that you want to share with others. 
