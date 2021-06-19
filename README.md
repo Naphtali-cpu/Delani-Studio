@@ -8,7 +8,7 @@ Naphtali Makori
 
 
 ## Description
-This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
 
 ## Contributors
 So far there are no contributors, but with time we will get to have some!
