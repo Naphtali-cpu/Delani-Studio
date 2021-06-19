@@ -16,6 +16,8 @@ So far there are no contributors, but with time we will get to have some!
 * HTML5
 * CSS
 * Javascript
+* jQuery
+* Bootstrap
 
 ## Known Bugs
 * So far there are unknown bugs in the site.
