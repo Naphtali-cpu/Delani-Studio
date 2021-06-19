@@ -3,8 +3,7 @@
 ## Author
 Naphtali Makori
 
-![alt text](https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.6435-9/46990494_566647387118375_999774721862008832_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHjGHw_mYmzOI1YyFQ2t9JoU9t4A06mkjVT23gDTqaSNdpOfMct5A7aXoO5HW-K6Byego6H745WSx31a5JZRV_1&_nc_ohc=gxG1bg-1-4kAX-L_VBj&_nc_oc=AQljAKv2-6H8nkXL7l1IGOyVZ4L7dsa-IECuqPeMSPdPUknYyFrSx6nZha5n_iFGumo&_nc_ht=scontent.fnbo2-1.fna&oh=3439a512b8f46277722cbe87e86f47c6&oe=60D27D51)
-
+![alt text](https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.6435-9/47052425_566646967118417_7131414301583081472_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeEEBFqxyl0wDWIp9ftLq2aJivs6Xuj-Ic6K-zpe6P4hzqsiVfjalzRvKBvjMKBC9N3wsXOW7i68vPpWCEfytyMX&_nc_ohc=T6qfraxtzEAAX-0VYeH&_nc_ht=scontent.fnbo2-1.fna&oh=9ab1ef42f3d06255061472b16431abf7&oe=60D3C6F6)
 
 
 ## Description
