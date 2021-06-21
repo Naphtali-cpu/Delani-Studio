@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $("#development-image").click(function(){
-    $("#development-image").slideToggle(3000);
+    $("#development-image").slideToggle(300);
     $("#development").slideToggle(3000);
   });
   $("#development").click(function(){
