@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: ;
 }
 .landing{
   background-image: url('../image/h_img.jpg');
